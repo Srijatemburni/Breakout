@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Breakout Game</string>
+
+    <string name="hello_world">Fire the ball against the bricks to break them. </string>
+    <string name="scorelist"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_high_scores">HighScores</string>
+    <string name="title_activity_gameover">Gameover</string>
+</resources>
